@@ -1,0 +1,69 @@
+div{
+    background-image: linear-gradient(-45deg, rgb(183, 144, 241), rgb(101, 241, 169));
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    width: 400px;
+    box-shadow: 5px 5px 20px rgba(165, 75, 137, 0.515);
+    border-radius: 50px;
+}
+
+h1{
+    text-shadow: -3px 1px 1px rgba(129, 102, 202, 0.185);
+    font-size: 40px;
+}
+
+body{
+    font-family: Manrope, sans-serif;
+    color: rgb(58, 58, 131);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+}
+
+.info{
+    margin: 5px;
+}
+
+h4{
+    font-weight: 800;
+}
+
+input{
+    border-radius: 6px;
+    border: 0;
+    padding: 3px 5px;
+}
+
+input:hover{
+    background-color: rgb(208, 239, 255);
+}
+
+#forg{
+    color: rgb(58, 58, 131);
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+#forg:hover{
+    color: rgb(255, 255, 255);
+}
+button{
+    width: 144px;
+    height: 24px;
+    border-radius: 20px;
+    border: 0;
+    color: rgb(238, 241, 243);
+    background-color: rgb(242, 155, 206);
+    font-weight: 500;
+    box-shadow: 5px 5px 5px rgb(77, 45, 167);
+}
+
+button:hover{
+    background-color: rgb(238, 241, 243);
+    color: rgb(242, 155, 206);
+}
+
+
