@@ -41,11 +41,16 @@ input:hover{
     background-color: rgb(208, 239, 255);
 }
 
+input:focus{
+    outline: none;
+}
+
 #forg{
     color: rgb(58, 58, 131);
     font-size: 10px;
     margin-bottom: 20px;
 }
+
 
 #forg:hover{
     color: rgb(255, 255, 255);
